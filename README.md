@@ -1,4 +1,4 @@
-# Getting Started with ML Observaility in Snowflake
+# Getting Started with ML Observability in Snowflake
 
 ## Overview
 
