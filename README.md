@@ -11,4 +11,4 @@ This repository contains a notebook that walks you through building, deploying, 
 
 ## Step-By-Step Guide
 
-For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide]().
+For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/getting-started-with-ml-observability-in-snowflake/index.html?index=..%2F..index#0).
